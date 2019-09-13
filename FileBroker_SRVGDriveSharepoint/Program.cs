@@ -6,7 +6,10 @@ namespace FileBroker_SRVGDriveSharepoint
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Init");
+            FileBroker_SRVGDriveSharepoint.InitProcess.Init();
+
+            FileBroker_SRVGDriveSharepoint.GroundWatch.WatchSyncoveryLogs();
         }
     }
 }

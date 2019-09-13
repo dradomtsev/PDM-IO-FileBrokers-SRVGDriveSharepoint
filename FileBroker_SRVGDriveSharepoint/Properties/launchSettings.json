@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FileBroker_SRVGDriveSharepoint": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "JSON_Path_Input": "C:\\Users\\d.radomtsev\\repos\\PDM\\FileBroker_SRVGDriveSharepoint\\FileBroker_SRVGDriveSharepoint\\Resources\\config.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\bin\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.deps.json
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\bin\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.runtimeconfig.json
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\bin\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.runtimeconfig.dev.json
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\bin\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.dll
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\bin\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.pdb
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.csprojAssemblyReference.cache
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.Properties.Resources.resources
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.csproj.GenerateResource.cache
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.csproj.CoreCompileInputs.cache
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.AssemblyInfoInputs.cache
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.AssemblyInfo.cs
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.dll
+C:\Users\d.radomtsev\repos\PDM\FileBroker_SRVGDriveSharepoint\FileBroker_SRVGDriveSharepoint\obj\Release\netcoreapp2.2\FileBroker_SRVGDriveSharepoint.pdb
